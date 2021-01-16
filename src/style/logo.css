@@ -1,0 +1,8 @@
+.logo{
+    background-image: url("https://i.imgur.com/XAWNc5L.jpg");
+    background-position: center;
+    background-size:cover;
+    height: 800px;
+    background-repeat: no-repeat;
+    object-fit: contain;
+}
